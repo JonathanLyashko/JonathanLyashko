@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack d
 
 - 📫 **Email**: jlyashko@uwaterloo.ca
 - **LinkedIn**: (https://www.linkedin.com/in/jonathan-lyashko/)
-- **Portfolio**: [vmazilu.com](https://jonathanlyashko.com/)
+- **Portfolio**: [jonathanlyashko.com](https://jonathanlyashko.com/)
 
 Feel free to reach out for collaborations or just for a chat!
 
