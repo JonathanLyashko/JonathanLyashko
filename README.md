@@ -13,13 +13,13 @@
 ```javascript
 const jonathan = {
   education: "Computer Engineering @ University of Waterloo",
-  interests: ["Full-Stack Development", "Software Architecture", "Problem Solving"],
-  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
+  interests: ["Full-Stack Development", "Artfificial Intelligence", "DevOps"],
+  currentlyLearning: ["System Design", "Communications", "Electronic Circuits"],
   goals2025: [
     "Contribute to major open-source projects",
-    "Build impactful web applications",
-    "Master full-stack development",
-    "Expand my technical knowledge breadth"
+    "Build meaningful personal projects",
+    "Expand knowledge of firmware and low level programming",
+    "Touch grass, go to the beach, and breath fresh air"
   ],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+  hometown: "Halifax, Nova Scotia"
 };
