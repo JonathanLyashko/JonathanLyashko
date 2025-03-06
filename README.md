@@ -1,25 +1,50 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Jonathan+Lyashko;Computer+Engineering+Student;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <!-- Custom ASCII Art Header -->
+  <pre>
+  ░░░░░██╗░█████╗░███╗░░██╗░█████╗░████████╗██╗░░██╗░█████╗░███╗░░██╗
+  ░░░░░██║██╔══██╗████╗░██║██╔══██╗╚══██╔══╝██║░░██║██╔══██╗████╗░██║
+  ░░░░░██║██║░░██║██╔██╗██║███████║░░░██║░░░███████║███████║██╔██╗██║
+  ██╗░░██║██║░░██║██║╚████║██╔══██║░░░██║░░░██╔══██║██╔══██║██║╚████║
+  ╚█████╔╝╚█████╔╝██║░╚███║██║░░██║░░░██║░░░██║░░██║██║░░██║██║░╚███║
+  ░╚════╝░░╚════╝░╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
   
-  <p>Building things that matter at the University of Waterloo 🚀</p>
+  ██╗░░░░░██╗░░░██╗░█████╗░░██████╗██╗░░██╗██╗░░██╗░█████╗░
+  ██║░░░░░╚██╗░██╔╝██╔══██╗██╔════╝██║░░██║██║░██╔╝██╔══██╗
+  ██║░░░░░░╚████╔╝░███████║╚█████╗░███████║█████═╝░██║░░██║
+  ██║░░░░░░░╚██╔╝░░██╔══██║░╚═══██╗██╔══██║██╔═██╗░██║░░██║
+  ███████╗░░░██║░░░██║░░██║██████╔╝██║░░██║██║░╚██╗╚█████╔╝
+  ╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░
+  </pre>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-jonathanlyashko.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanlyashko.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-lyashko/)
-  [![Email](https://img.shields.io/badge/Email-jlyashko@uwaterloo.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlyashko@uwaterloo.ca)
+  <!-- Interactive Terminal Header -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=41B883&center=true&vCenter=true&width=600&lines=%3E+Computer+Engineering+Student;%3E+Full-Stack+Developer;%3E+Problem+Solver;%3E+Tech+Enthusiast;%3E+University+of+Waterloo" alt="Typing SVG" />
+  </div>
 </div>
 
-## 💫 About Me
+<!-- Custom Circuit Board Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-```javascript
-const jonathan = {
-  education: "Computer Engineering @ University of Waterloo",
-  interests: ["Full-Stack Development", "Artfificial Intelligence", "DevOps"],
-  currentlyLearning: ["System Design", "Communications", "Electronic Circuits"],
-  goals2025: [
+<!-- About Me Section Styled as Code Terminal -->
+<div align="center">
+  <h2>$ whoami</h2>
+</div>
+
+```bash
+jonathan@uwaterloo:~$ cat about_me.json
+{
+  "name": "Jonathan Lyashko",
+  "education": "Computer Engineering @ University of Waterloo",
+  "interests": ["Full-Stack Development", "Software Architecture", "Problem Solving"],
+  "currentlyLearning": ["Advanced React Patterns", "System Design", "Cloud Architecture"],
+  "goals2025": [
     "Contribute to major open-source projects",
-    "Build meaningful personal projects",
-    "Expand knowledge of firmware and low level programming",
-    "Touch grass, go to the beach, and breath fresh air"
+    "Build impactful web applications",
+    "Master full-stack development",
+    "Expand my technical knowledge breadth"
   ],
-  hometown: "Halifax, Nova Scotia"
-};
+  "funFact": "I can solve a Rubik's cube in under 2 minutes!"
+}
+
+jonathan@uwaterloo:~$ uptime
+ 09:44:35 up 22 years, 3 days, 15:42, 1 user, load average: 0.42, 0.78, 0.68
