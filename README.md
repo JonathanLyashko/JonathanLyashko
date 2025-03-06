@@ -1,23 +1,25 @@
-# 👋 Hi, I’m Jonathan Lyashko (@JonathanLyashko)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Jonathan+Lyashko;Computer+Engineering+Student;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  
+  <p>Building digital solutions at the University of Waterloo 🚀</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-jonathanlyashko.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanlyashko.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-lyashko/)
+  [![Email](https://img.shields.io/badge/Email-jlyashko@uwaterloo.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlyashko@uwaterloo.ca)
+</div>
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack developer currently studying Computer Engineering at the University of Waterloo. I love exploring new technologies and building things that the world needs.
+## 💫 About Me
 
-## About Me
-
-- 📚 **Education**: Pursuing a Bachelors of Applied Science in Computer Engineering at the University of Waterloo.
-- 🌱 **Currently Learning**: Diving deep into full-stack development.
-- 🎯 **Goals for 2025**: To contribute to major open-source projects and develop my own portfolio of diverse and impactful web applications.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanLyashko&exclude_repo=Shower-Scribe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Connect with Me
-
-- 📫 **Email**: jlyashko@uwaterloo.ca
-- **LinkedIn**: (https://www.linkedin.com/in/jonathan-lyashko/)
-- **Portfolio**: [jonathanlyashko.com](https://jonathanlyashko.com/)
-
-Feel free to reach out for collaborations or just for a chat!
-
----
-
-Thank you for visiting my profile!
+```javascript
+const jonathan = {
+  education: "Computer Engineering @ University of Waterloo",
+  interests: ["Full-Stack Development", "Software Architecture", "Problem Solving"],
+  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
+  goals2025: [
+    "Contribute to major open-source projects",
+    "Build impactful web applications",
+    "Master full-stack development",
+    "Expand my technical knowledge breadth"
+  ],
+  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+};
