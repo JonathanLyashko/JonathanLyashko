@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Embedded Opening Animation GIF -->
-  <img src="media/videos/GithubReadme/1080p60/Opening.gif" alt="Opening Animation" />
+  <img src="Opening.gif" alt="Opening Animation" />
 </div>
 
 <div align="center">
