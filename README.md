@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Embedded Opening Animation GIF -->
-  <img src="Opening.gif" alt="Opening Animation" />
+  <img src="Opening.apng" alt="Opening Animation" />
 </div>
 
 <div align="center">
