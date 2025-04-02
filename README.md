@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Embedded Opening Animation GIF -->
+  <img src="media/videos/GithubReadme/1080p60/Opening.gif" alt="Opening Animation" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Jonathan+Lyashko;Computer+Engineering+Student;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   
   <p>Building things that matter at the University of Waterloo 🚀</p>
