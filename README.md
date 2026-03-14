@@ -1,5 +1,3 @@
-<img align="right" src="./assets/goose.svg" alt="Waterloo goose" width="140" />
-
 # Jonathan Lyashko
 
 ### computer engineer with a systems brain
@@ -16,18 +14,26 @@ Right now that means AI infrastructure at Revvity, autonomous robot fleet coordi
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## Current signal
+```json
+{
+  "name": "Jonathan Lyashko",
+  "role": "Computer Engineer",
+  "vibe": ["founder-energy", "systems-thinking", "plays-with-real-machines"],
+  "currently_building": [
+    "AI infrastructure @ Revvity",
+    "autonomous robot fleet coordination @ Waterloo",
+    "robotics + FPGA work"
+  ],
+  "stack": ["C", "Verilog", "Python", "Docker"],
+  "defaults": {
+    "style": "high signal, low noise",
+    "engineering": "clean interfaces and low-level control",
+    "goal": "make complicated systems feel composed"
+  }
+}
+```
 
-`C` `Verilog` `Python` `Docker`
-
-I care about systems thinking, clean interfaces, low-level control, and making complicated machines feel composed.
-
-## A few things that matter to me
-
-- build with intent
-- keep the hype below the signal
-- make hardware and software cooperate
-- leave room for a little personality
+`build with intent` `keep the hype below the signal` `make hardware and software cooperate`
 
 <p align="center">
   <img src="./assets/signal.svg" alt="signal accent" width="220" />
