@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stackBg" x1="40" y1="42" x2="1168" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111D"/>
+      <stop offset="1" stop-color="#0D1B2A"/>
+    </linearGradient>
+    <linearGradient id="stackLine" x1="84" y1="102" x2="1114" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BF6D2"/>
+      <stop offset="0.5" stop-color="#8FA8FF"/>
+      <stop offset="1" stop-color="#FFD36A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#stackBg)"/>
+  <rect x="52" y="50" width="1096" height="260" rx="24" fill="#091523" fill-opacity="0.66" stroke="#23445F"/>
+  <text x="86" y="100" fill="#7BF6D2" font-family="'Segoe UI', sans-serif" font-size="14" letter-spacing="0.24em">STACK SIGNATURE</text>
+
+  <g>
+    <rect x="86" y="132" width="214" height="128" rx="20" fill="#0C1A29" stroke="#22445F"/>
+    <text x="114" y="174" fill="#F7FBFF" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="700">C</text>
+    <text x="114" y="214" fill="#B8CAE0" font-family="'Segoe UI', sans-serif" font-size="18">control, speed, hardware-near logic</text>
+  </g>
+
+  <g>
+    <rect x="326" y="132" width="214" height="128" rx="20" fill="#0C1A29" stroke="#22445F"/>
+    <text x="354" y="174" fill="#F7FBFF" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="700">Verilog</text>
+    <text x="354" y="214" fill="#B8CAE0" font-family="'Segoe UI', sans-serif" font-size="18">timing, signals, disciplined design</text>
+  </g>
+
+  <g>
+    <rect x="566" y="132" width="214" height="128" rx="20" fill="#0C1A29" stroke="#22445F"/>
+    <text x="594" y="174" fill="#F7FBFF" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="700">Python</text>
+    <text x="594" y="214" fill="#B8CAE0" font-family="'Segoe UI', sans-serif" font-size="18">glue, tooling, orchestration</text>
+  </g>
+
+  <g>
+    <rect x="806" y="132" width="308" height="128" rx="20" fill="#0C1A29" stroke="#22445F"/>
+    <text x="834" y="174" fill="#F7FBFF" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="700">Docker</text>
+    <text x="834" y="214" fill="#B8CAE0" font-family="'Segoe UI', sans-serif" font-size="18">repeatable systems, cleaner deployment stories</text>
+  </g>
+
+  <path d="M108 282C244 262 386 240 516 248C642 256 752 290 876 282C975 276 1030 256 1093 232" stroke="url(#stackLine)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="14 12">
+    <animate attributeName="stroke-dashoffset" values="0;-156" dur="6.8s" repeatCount="indefinite"/>
+  </path>
+</svg>
