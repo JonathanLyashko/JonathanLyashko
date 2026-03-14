@@ -1,24 +1,31 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gooseBg" x1="22" y1="18" x2="160" y2="164" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="20" y1="18" x2="162" y2="164" gradientUnits="userSpaceOnUse">
       <stop stop-color="#09121E"/>
       <stop offset="1" stop-color="#102235"/>
     </linearGradient>
-    <linearGradient id="gooseLine" x1="48" y1="44" x2="132" y2="128" gradientUnits="userSpaceOnUse">
+    <linearGradient id="wire" x1="34" y1="132" x2="146" y2="132" gradientUnits="userSpaceOnUse">
       <stop stop-color="#7BF6D2"/>
+      <stop offset="0.55" stop-color="#9AAEFF"/>
       <stop offset="1" stop-color="#FFD36A"/>
     </linearGradient>
   </defs>
-  <rect x="10" y="10" width="160" height="160" rx="28" fill="url(#gooseBg)"/>
-  <path d="M60 116C60 95 75 80 95 80C102 80 110 82 117 87C113 72 116 60 127 49C131 45 134 42 138 40C136 47 137 56 141 67C144 77 143 88 136 96C146 101 152 111 152 123C152 139 139 152 121 152H84C70 152 60 141 60 128V116Z" fill="#F7FBFF"/>
-  <path d="M117 87C110 82 102 80 95 80C75 80 60 95 60 116V128C60 141 70 152 84 152H121C139 152 152 139 152 123C152 111 146 101 136 96" stroke="#DCE7F4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M127 49C116 60 113 72 117 87" stroke="#DCE7F4" stroke-width="3" stroke-linecap="round"/>
-  <path d="M138 40C134 42 131 45 127 49" stroke="#DCE7F4" stroke-width="3" stroke-linecap="round"/>
-  <path d="M129 62C135 61 141 63 146 68" stroke="url(#gooseLine)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="112" cy="95" r="4" fill="#09121E"/>
-  <path d="M142 99L162 105L143 113C138 109 137 103 142 99Z" fill="#FF9A5B"/>
-  <path d="M76 154C84 146 95 142 109 142" stroke="url(#gooseLine)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 8">
-    <animate attributeName="stroke-dashoffset" values="0;-64" dur="4s" repeatCount="indefinite"/>
+
+  <rect x="10" y="10" width="160" height="160" rx="28" fill="url(#bg)"/>
+
+  <path d="M34 138C48 132 63 132 76 138C88 143 100 143 112 138C123 133 134 131 146 134" stroke="url(#wire)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 9">
+    <animate attributeName="stroke-dashoffset" values="0;-68" dur="4.2s" repeatCount="indefinite"/>
   </path>
-  <text x="28" y="34" fill="#7BF6D2" font-family="'Segoe UI', sans-serif" font-size="12" letter-spacing="0.18em">WATERLOO MODE</text>
+
+  <g transform="translate(22 18)">
+    <path d="M98 103C110 103 120 99 127 91C133 85 136 77 136 68C136 52 126 40 113 35C114 26 112 19 106 14C100 9 92 8 84 11C75 15 69 22 66 31C64 38 64 46 67 53L61 57C50 65 43 76 43 88C43 99 47 109 55 116C63 123 74 127 87 127H112C123 127 132 124 139 118C146 112 150 104 150 94C150 86 147 79 142 73C138 68 132 63 124 60" fill="#F5F7FB"/>
+    <path d="M67 53C64 46 64 38 66 31C69 22 75 15 84 11C92 8 100 9 106 14C112 19 114 26 113 35C126 40 136 52 136 68C136 77 133 85 127 91C120 99 110 103 98 103" stroke="#D8E2EE" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M61 57C50 65 43 76 43 88C43 99 47 109 55 116C63 123 74 127 87 127H112C123 127 132 124 139 118C146 112 150 104 150 94C150 86 147 79 142 73C138 68 132 63 124 60" stroke="#D8E2EE" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 36C110 36 116 38 121 42C126 46 129 52 131 58" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+    <path d="M105 36C110 36 115 38 120 41C120 34 118 27 114 22C110 17 105 14 99 12C97 21 99 29 105 36Z" fill="#111827"/>
+    <path d="M130 69C142 68 153 71 161 78L138 86L130 69Z" fill="#F2A15F"/>
+    <circle cx="121" cy="63" r="4.6" fill="#111827"/>
+    <path d="M64 128L56 135" stroke="#E6C76A" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M78 128L70 135" stroke="#E6C76A" stroke-width="3.2" stroke-linecap="round"/>
+  </g>
 </svg>
