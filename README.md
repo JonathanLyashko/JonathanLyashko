@@ -2,14 +2,14 @@
 
 ### computer engineer with a systems brain
 
-I like building things that have to behave in the real world.
+I build things that have to work outside the demo.
 
-Right now that means AI infrastructure at Revvity, autonomous robot fleet coordination at Waterloo, and a lot of time going further down the stack with robotics and FPGA work.
+Right now that means AI infrastructure at Revvity, autonomous robot fleet coordination at Waterloo, and spending more of my time on robotics and FPGA work.
 
 <p>
-  <a href="https://jonathanlyashko.com/">website</a> /
-  <a href="https://www.linkedin.com/in/jonathan-lyashko/">linkedin</a> /
-  <a href="mailto:jlyashko@uwaterloo.ca">email</a>
+  <a href="https://jonathanlyashko.com/"><img src="./assets/icon-web.svg" alt="" width="14" /> website</a> /
+  <a href="https://www.linkedin.com/in/jonathan-lyashko/"><img src="./assets/icon-linkedin.svg" alt="" width="14" /> linkedin</a> /
+  <a href="mailto:jlyashko@uwaterloo.ca"><img src="./assets/icon-mail.svg" alt="" width="14" /> email</a>
 </p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -18,22 +18,17 @@ Right now that means AI infrastructure at Revvity, autonomous robot fleet coordi
 {
   "name": "Jonathan Lyashko",
   "role": "Computer Engineer",
-  "vibe": ["founder-energy", "systems-thinking", "plays-with-real-machines"],
-  "currently_building": [
+  "current_work": [
     "AI infrastructure @ Revvity",
     "autonomous robot fleet coordination @ Waterloo",
     "robotics + FPGA work"
   ],
   "stack": ["C", "Verilog", "Python", "Docker"],
-  "defaults": {
-    "style": "high signal, low noise",
-    "engineering": "clean interfaces and low-level control",
-    "goal": "make complicated systems feel composed"
-  }
+  "care_about": ["systems thinking", "clean interfaces", "low-level control"]
 }
 ```
 
-`build with intent` `keep the hype below the signal` `make hardware and software cooperate`
+I like clean interfaces, hardware-software problems, and systems that stay understandable as they get more complicated.
 
 <p align="center">
   <img src="./assets/signal.svg" alt="signal accent" width="220" />
