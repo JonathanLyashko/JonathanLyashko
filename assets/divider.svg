@@ -1,0 +1,12 @@
+<svg width="1200" height="36" viewBox="0 0 1200 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divider" x1="46" y1="18" x2="1154" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BF6D2" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#7BF6D2" stop-opacity="0.8"/>
+      <stop offset="0.5" stop-color="#9AAEFF"/>
+      <stop offset="0.8" stop-color="#FFD36A" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#FFD36A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M46 18H522L548 8L574 28L600 18L626 8L652 28L678 18H1154" stroke="url(#divider)" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

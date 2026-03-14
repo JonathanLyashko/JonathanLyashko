@@ -1,0 +1,12 @@
+<svg width="220" height="40" viewBox="0 0 220 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="signal" x1="12" y1="20" x2="208" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BF6D2"/>
+      <stop offset="0.5" stop-color="#9AAEFF"/>
+      <stop offset="1" stop-color="#FFD36A"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 20C34 20 34 8 56 8C78 8 78 32 100 32C122 32 122 12 144 12C166 12 166 28 188 28C198 28 204 24 208 20" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 10">
+    <animate attributeName="stroke-dashoffset" values="0;-80" dur="4.2s" repeatCount="indefinite"/>
+  </path>
+</svg>

@@ -1,26 +1,34 @@
-<div align="center">
-  <img src="./assets/hero.svg" alt="Jonathan profile hero" width="100%" />
-</div>
+<img align="right" src="./assets/goose.svg" alt="Waterloo goose" width="140" />
 
-<p align="center">
-  Computer engineer building calm systems for messy realities.
+# Jonathan Lyashko
+
+### computer engineer with a systems brain
+
+I like building things that have to behave in the real world.
+
+Right now that means AI infrastructure at Revvity, autonomous robot fleet coordination at Waterloo, and a lot of time going further down the stack with robotics and FPGA work.
+
+<p>
+  <a href="https://jonathanlyashko.com/">website</a> /
+  <a href="https://www.linkedin.com/in/jonathan-lyashko/">linkedin</a> /
+  <a href="mailto:jlyashko@uwaterloo.ca">email</a>
 </p>
 
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## Current signal
+
+`C` `Verilog` `Python` `Docker`
+
+I care about systems thinking, clean interfaces, low-level control, and making complicated machines feel composed.
+
+## A few things that matter to me
+
+- build with intent
+- keep the hype below the signal
+- make hardware and software cooperate
+- leave room for a little personality
+
 <p align="center">
-  AI infrastructure @ Revvity. Robot fleet coordination @ Waterloo. Currently deep in robotics and FPGA work.
+  <img src="./assets/signal.svg" alt="signal accent" width="220" />
 </p>
-
-<div align="center">
-  <a href="https://jonathanlyashko.com/">Website</a> |
-  <a href="https://www.linkedin.com/in/jonathan-lyashko/">LinkedIn</a> |
-  <a href="mailto:jlyashko@uwaterloo.ca">Email</a>
-</div>
-
-<div align="center">
-  <img src="./assets/stack.svg" alt="Jonathan technical stack" width="100%" />
-</div>
-
-```text
-C / Verilog / Python / Docker
-systems thinking > slogans
-```
