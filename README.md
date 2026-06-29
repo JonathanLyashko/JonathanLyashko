@@ -15,7 +15,7 @@ const jonathan = {
   education: "Computer Engineering @ University of Waterloo",
   interests: ["Full-Stack Development", "Artfificial Intelligence", "DevOps"],
   currentlyLearning: ["System Design", "Communications", "Electronic Circuits"],
-  goals2025: [
+  goals2026: [
     "Contribute to major open-source projects",
     "Build meaningful personal projects",
     "Expand knowledge of firmware and low level programming",
