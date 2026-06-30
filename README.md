@@ -13,12 +13,12 @@
 ```javascript
 const jonathan = {
   education: "Computer Engineering @ University of Waterloo",
-  interests: ["Full-Stack Development", "Artfificial Intelligence", "DevOps"],
-  currentlyLearning: ["System Design", "Communications", "Electronic Circuits"],
+  interests: ["Control Systems", "Signal Processing", "Quantum Hardware"],
+  currentlyLearning: ["Computer Architecture", "Communications", "Quantum Information Processing"],
   goals2026: [
-    "Contribute to major open-source projects",
-    "Build meaningful personal projects",
-    "Expand knowledge of firmware and low level programming",
+    "Build things I find useful",
+    "Contribute to the WatQ design team",
+    "Expand knowledge of control theory and physical modelling",
     "Touch grass, go to the beach, and breath fresh air"
   ],
   hometown: "Halifax, Nova Scotia"
